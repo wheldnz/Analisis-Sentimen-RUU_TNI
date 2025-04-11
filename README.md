@@ -58,18 +58,5 @@ Membuat wordcloud untuk masing-masing sentimen agar lebih mudah divisualisasikan
 ## 📌 Hasil Utama
 
 - Sentimen negatif mendominasi perbincangan publik terhadap RUU TNI.
-- Kata-kata seperti `sipil`, `demokrasi`, `kewenangan`, dan `ancaman` sering muncul pada tweet negatif.
 - Tweet netral umumnya berupa berita atau informasi tanpa opini.
 
----
-
-## 📁 Struktur File
-
-```bash
-.
-├── RUU_TNI.csv                 # Dataset hasil scraping dari Twitter
-├── notebook.ipynb              # Notebook utama analisis
-├── wordcloud_positive.png      # Wordcloud tweet positif
-├── wordcloud_negative.png      # Wordcloud tweet negatif
-├── tweet_netral.csv            # Tweet netral hasil filter
-└── README.md                   # Dokumentasi proyek ini
