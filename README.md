@@ -62,3 +62,16 @@ Membuat wordcloud untuk masing-masing sentimen agar lebih mudah divisualisasikan
 
 ![Bar Chart Sentimen](images/sentimen_barplot.png)
 
+## 👤 Kontributor
+
+**Nama:** _M. Wildan Nuril Akmal 
+**Minat:** Data Analyst  
+
+
+## 📬 Kontak
+
+Ingin berdiskusi lebih lanjut atau membutuhkan file csv nya?
+
+- 📧 Email: [wildanuril99@email.com]  
+- 💼 LinkedIn: [www.linkedin.com/in/wildan-nuril]
+
