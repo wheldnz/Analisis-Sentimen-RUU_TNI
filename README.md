@@ -60,3 +60,5 @@ Membuat wordcloud untuk masing-masing sentimen agar lebih mudah divisualisasikan
 - Sentimen negatif mendominasi perbincangan publik terhadap RUU TNI.
 - Tweet netral umumnya berupa berita atau informasi tanpa opini.
 
+![Bar Chart Sentimen](images/sentimen_barplot.png)
+
